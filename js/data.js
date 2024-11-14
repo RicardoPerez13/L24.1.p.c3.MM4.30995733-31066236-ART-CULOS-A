@@ -15,7 +15,7 @@ let cantidadArticulosSinExistencia=(articulo,departamento)=>{
         }
         return cnt;
     }
-    
+     
 
 let articulos =[
     {departamento:2,nombre:"Pijama",precio:15,existencia:2},
